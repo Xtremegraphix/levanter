@@ -17,7 +17,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "2348061952633"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "Xtremegraphix"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
@@ -99,8 +99,8 @@
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "SEND_READ": {
       "description": "send blue tick",
